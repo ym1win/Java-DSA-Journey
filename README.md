@@ -147,26 +147,7 @@ Update Progress Tracker
 
 ---
 
-# 📄 Java Solution Template
 
-Every solution follows a consistent structure.
-
-```java
-/*
-Problem      :
-Platform     :
-Difficulty   :
-Topic        :
-
-Approach     :
-
-Time Complexity :
-Space Complexity :
-*/
-
-public class Solution {
-
-}
 ```
 
 ---
