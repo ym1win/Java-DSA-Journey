@@ -17,7 +17,7 @@ public class binary_triangle {
                     System.out.print("0 ");
 
             }
-            System.out.println();
+            System.out.println(5);
         }
     }
 }
