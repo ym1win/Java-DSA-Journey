@@ -30,7 +30,12 @@ public class rotate_array {
         System.out.println("Enter k");
         int k = sc.nextInt();
 
-        k = k % n;
+        k = k % n;   //remove unnecessary rotations
+
+        // k % n isliye karte hain kyunki n rotations ke baad array original position par aa jata hai.
+        // Isliye sirf k % n rotations actually matter karti hain.
+        // Example: n = 5, k = 7
+        // 7 % 5 = 2 → 7 rotations ka effect same hai as 2 rotations.
 
         // Step 1: reverse first k elements
         reverse(arr, 0, k - 1);
