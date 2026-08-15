@@ -10,7 +10,7 @@ public class return_type {
         System.out.println("world");
 
         return 5;  // return mtlb function yha khtm and function ye return value hold krta hai
-    }              // retrun type int hai , isliye 5 return krna compulsary hai
+    }              // return type int hai , isliye 5 return krna compulsary hai
 
 
     static void main() {
