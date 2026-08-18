@@ -95,31 +95,6 @@ Java-DSA-Journey
 
 ---
 
-# 🛣 Learning Roadmap
-
-| Topic | Status |
-|--------|--------|
-| Java Basics | ✅ Completed |
-| Arrays | 🔄 In Progress |
-| Strings | ⏳ Upcoming |
-| Binary Search | ⏳ Upcoming |
-| Recursion | ⏳ Upcoming |
-| Sorting | ⏳ Upcoming |
-| Linked List | ⏳ Upcoming |
-| Stack | ⏳ Upcoming |
-| Queue | ⏳ Upcoming |
-| Trees | ⏳ Upcoming |
-| BST | ⏳ Upcoming |
-| Heap | ⏳ Upcoming |
-| Graph | ⏳ Upcoming |
-| Greedy | ⏳ Upcoming |
-| Dynamic Programming | ⏳ Upcoming |
-| Trie | ⏳ Upcoming |
-| Backtracking | ⏳ Upcoming |
-
-> The roadmap will be updated as I progress through my DSA preparation.
-
----
 
 # 📌 Problem Solving Workflow
 
