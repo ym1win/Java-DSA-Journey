@@ -23,7 +23,6 @@ public class missing_number {
     }
 
     static void main() {
-
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter size of array:");
