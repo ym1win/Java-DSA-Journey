@@ -15,7 +15,6 @@ public class passing_array_to_methods {
         // toh arr ko jb method mein paas kia toh x ko v uss original array ka memory address mil gya
         // isliye x ke through array mein kuch change kia toh woh original array mein v reflect hua
     }
-
     static void change(int[] x){
         x[2]=20;
     }
