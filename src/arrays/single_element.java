@@ -1,6 +1,6 @@
 package arrays;
 
-public class single_element {
+public class single_element { // using xor operator
 
     public static void main(String[] args) {
 
