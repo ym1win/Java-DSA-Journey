@@ -39,5 +39,4 @@ public class two_sum {
             System.out.println("Two sum present at indexes "+flag1+" and "+flag2);
 
         }
-
     }
