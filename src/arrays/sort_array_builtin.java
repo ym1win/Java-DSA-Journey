@@ -12,7 +12,6 @@ public class sort_array_builtin {
         System.out.println("After sorting -");
         print(arr);
     }
-
     static void print(int[] arr){
         for(int element:arr){
             System.out.print(element+" ");
