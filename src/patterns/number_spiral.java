@@ -25,6 +25,5 @@ public class number_spiral {     // pehle 1/4 th print krke smjhenge then
             System.out.println();
 
         }
-
     }
 }
