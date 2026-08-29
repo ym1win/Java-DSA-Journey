@@ -13,7 +13,6 @@ public class alphabet_square {
         for(int i=1;i<=rows;i++){
             for(int j=1;j<=columns;j++){
                 System.out.print((char)(j+64)+" ");
-
             }
             System.out.println();
         }
