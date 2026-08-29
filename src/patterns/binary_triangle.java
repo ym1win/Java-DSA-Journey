@@ -15,7 +15,6 @@ public class binary_triangle {
                     System.out.print("1 ");
                 else
                     System.out.print("0 ");
-
             }
             System.out.println(5);
         }
