@@ -24,4 +24,5 @@ public class return_type {
                  //  but jo function ki value hai i.e 5(return) woh khi use ni hoga
                 // cuz woh valye kisi variable mein store ni ki gyi and na h khi use
     }
+
 }
