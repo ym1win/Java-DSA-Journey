@@ -14,6 +14,5 @@ public class built_in_functions {
         System.out.println(Math.pow(2,6));
         System.out.println(Math.pow(3,3.14));
 
-
     }
 }
