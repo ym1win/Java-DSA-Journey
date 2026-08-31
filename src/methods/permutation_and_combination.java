@@ -48,7 +48,9 @@ public class permutation_and_combination {
 //
 //        int nCr=nfact/(rfact*n_minus_rfact);
 
-        nCr=factorial(n)/factorial(r)*factorial((n-r));  // beautiful use of making a separate factorial function
+        nCr=factorial(n)/factorial(r)*factorial((n-r));
+
+        // beautiful use of making a separate factorial function
         System.out.println(nCr);
     }
 }
