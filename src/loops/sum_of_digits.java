@@ -30,7 +30,6 @@ public class sum_of_digits {
             sum+=digit;
             n=n/10;
         }
-
         System.out.println("Sum of digits is : "+ sum);
 
     }
