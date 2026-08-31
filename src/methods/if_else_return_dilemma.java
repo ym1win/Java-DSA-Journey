@@ -12,7 +12,6 @@ public class if_else_return_dilemma {
 
    //
 
-
     static void main() {
         System.out.println(yash(3));
 
