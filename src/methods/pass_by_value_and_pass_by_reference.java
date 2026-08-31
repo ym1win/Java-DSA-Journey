@@ -20,5 +20,6 @@ public class pass_by_value_and_pass_by_reference {
                     // video mein sir ne acche se smjhaya hai
         System.out.println(x);
 
+
     }
 }
