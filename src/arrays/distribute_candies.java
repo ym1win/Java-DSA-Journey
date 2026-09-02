@@ -13,7 +13,6 @@ public class distribute_candies {
 
         System.out.println("Maximum different candy types: " + result);
     }
-
     public static int distributeCandies(int[] candyType) {
 
         Set<Integer> types = new HashSet<>();
