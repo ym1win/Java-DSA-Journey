@@ -17,7 +17,6 @@ public class missing_number {
         for (int element : arr) {
             actualSum += element;
         }
-
         // Difference is the missing number
         return expectedSum - actualSum;
     }
