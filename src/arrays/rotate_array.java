@@ -13,7 +13,6 @@ public class rotate_array {
             end--;
         }
     }
-
     static void main() {
 
         Scanner sc = new Scanner(System.in);
