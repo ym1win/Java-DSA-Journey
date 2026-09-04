@@ -11,7 +11,6 @@ public class shallow_copy_and_deep_copy {
         System.out.println(x[1]);
 
         System.out.println();
-
         // deep copy
         int[] y=Arrays.copyOf(arr,arr.length); // kitne length tk copy krna hai uske liye length paramter hota hai
         y[2]=200;
