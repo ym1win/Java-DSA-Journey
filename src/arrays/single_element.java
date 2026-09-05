@@ -14,4 +14,5 @@ public class single_element { // using xor operator
 
         System.out.println("Single element: " + ans);
     }
+
 }
