@@ -43,6 +43,7 @@ public class relative_rank {
                 answer[index] = String.valueOf(rank + 1);
             }
         }
+
         return answer;
     }
 }
