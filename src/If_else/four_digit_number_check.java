@@ -12,4 +12,5 @@ public class four_digit_number_check {
         else
             System.out.println(n+" is not a four digit number");
     }
+
 }
