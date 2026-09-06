@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class student_code {
     static void main() {
         Scanner sc=new Scanner(System.in);
-
         System.out.println("Enter a number");
         int n=sc.nextInt();
 
