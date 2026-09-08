@@ -19,5 +19,4 @@ public class duplicate_no_xor {
 
         System.out.println("XOR of duplicate numbers: " + result);
     }
-
 }
