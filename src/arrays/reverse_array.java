@@ -40,5 +40,6 @@ public class reverse_array {
         for(int element:arr){
             System.out.print(element+" ");
         }
+
     }
 }
