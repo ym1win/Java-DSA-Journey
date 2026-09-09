@@ -46,4 +46,5 @@ public class max_consecutive_ones {
 
         return max;
     }
+
 }
