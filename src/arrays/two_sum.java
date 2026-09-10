@@ -37,5 +37,6 @@ public class two_sum {
         }
         else
             System.out.println("Two sum present at indexes "+flag1+" and "+flag2);
+
         }
     }
