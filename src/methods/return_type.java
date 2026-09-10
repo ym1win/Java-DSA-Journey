@@ -25,4 +25,5 @@ public class return_type {
                 // cuz woh valye kisi variable mein store ni ki gyi and na h khi use
     }
 
+
 }
