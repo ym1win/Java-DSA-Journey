@@ -23,6 +23,7 @@ public class number_spiral {     // pehle 1/4 th print krke smjhenge then
                 System.out.print(Math.min(a,b)+" ");
             }
             System.out.println();
+
         }
     }
 }
