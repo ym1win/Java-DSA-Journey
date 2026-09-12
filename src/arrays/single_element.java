@@ -11,7 +11,6 @@ public class single_element { // using xor operator
         for (int n : nums) {
             ans ^= n;
         }
-
         System.out.println("Single element: " + ans);
     }
 
