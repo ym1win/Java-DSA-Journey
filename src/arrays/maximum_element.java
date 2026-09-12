@@ -10,7 +10,6 @@ public class maximum_element {
 
         int[] arr = new int[n];
 
-
         System.out.println("Enter elements in array");
         for (int i = 0; i < arr.length; i++) {
             arr[i] = sc.nextInt();
