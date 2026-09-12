@@ -38,4 +38,5 @@ public class reverse_integer {
         System.out.println(obj.reverse(120));
         System.out.println(obj.reverse(1534236469));
     }
+
 }
