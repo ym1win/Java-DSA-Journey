@@ -12,6 +12,5 @@ public class isInteger {
             System.out.println(n + " is an integer");
         else
             System.out.println(n+ " is not an integer");
-
     }
 }
