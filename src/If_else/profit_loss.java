@@ -9,7 +9,6 @@ public class profit_loss {
         int cp=sc.nextInt();
         System.out.println("Enter selling price");
         int sp=sc.nextInt();
-
         if(sp>cp){
             System.out.println("Profit: "+ (sp-cp));
         }
