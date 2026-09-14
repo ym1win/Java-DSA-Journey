@@ -48,5 +48,4 @@ public class wave_array {
             System.out.print(element + " ");
         }
     }
-
 }
