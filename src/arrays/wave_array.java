@@ -39,7 +39,6 @@ public class wave_array {
         for (int element : arr) {
             System.out.print(element + " ");
         }
-
         convertToWave(arr);
 
         System.out.println("\nWave array:");
