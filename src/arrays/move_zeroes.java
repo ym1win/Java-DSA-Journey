@@ -9,6 +9,7 @@ public class move_zeroes {
         Scanner sc = new Scanner(System.in);
 
         System.out.println("Enter size of array:");
+
         int n = sc.nextInt();
 
         int[] nums = new int[n];
