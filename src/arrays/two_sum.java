@@ -31,7 +31,6 @@ public class two_sum {
             if(flag1!=-1)
                 break;     // outer loop unnecessary na chle
         }
-
         if(flag1==-1){
             System.out.println("no two sum");
         }
