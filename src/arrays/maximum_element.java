@@ -5,7 +5,9 @@ import java.util.Scanner;
 public class maximum_element {
     static void main() {
         Scanner sc = new Scanner(System.in);
+
         System.out.println("Enter size of array");
+
         int n = sc.nextInt();
 
         int[] arr = new int[n];
