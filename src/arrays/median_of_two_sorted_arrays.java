@@ -64,7 +64,6 @@ public class median_of_two_sorted_arrays {
 
         return 0.0;
     }
-
     public static void main(String[] args) {
 
         int[] nums1 = {1, 3};
