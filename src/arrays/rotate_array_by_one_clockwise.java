@@ -23,7 +23,6 @@ public class rotate_array_by_one_clockwise {
 
             f++;
             l--;
-
         }
     }
 
