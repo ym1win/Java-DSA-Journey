@@ -24,7 +24,6 @@ public class reverse_portion_of_array {
         for (int element : arr) {
             System.out.print(element + " ");
         }
-
         System.out.println();
 
         int temp = 0;
