@@ -22,7 +22,6 @@ public class leaders_in_array {
         }
 
         Collections.reverse(leader);
-
         return leader;
     }
 
