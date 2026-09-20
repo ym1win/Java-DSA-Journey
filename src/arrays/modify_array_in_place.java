@@ -15,7 +15,6 @@ public class modify_array_in_place {
         for (int i = 0; i < arr.length; i++) {
             arr[i] = sc.nextInt();
         }
-
         System.out.println("Array before modification -");
         for(int element:arr){
             System.out.print(element+" ");
