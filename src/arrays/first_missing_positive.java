@@ -25,6 +25,7 @@ public class first_missing_positive {
                 return i + 1;
             }
         }
+
         return n + 1;
     }
 
