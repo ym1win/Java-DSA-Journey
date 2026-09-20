@@ -25,7 +25,6 @@ public class rotate_array_by_one_clockwise {
             l--;
         }
     }
-
     public static void main(String[] args) {
 
         int[] arr = {1, 2, 3, 4, 5};
