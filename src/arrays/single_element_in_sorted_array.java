@@ -31,6 +31,7 @@ public class single_element_in_sorted_array {
                 right = mid;
             }
         }
+
         return nums[left];
     }
 }
