@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class number_square2 {
     static void main() {
         Scanner sc=new Scanner(System.in);
+
         System.out.println("Enter no of rows");
         int rows=sc.nextInt();
         System.out.println("Enter no of columns");
