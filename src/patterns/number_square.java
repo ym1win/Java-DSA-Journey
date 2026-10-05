@@ -11,6 +11,7 @@ public class number_square {
         int columns=sc.nextInt();
 
         for(int i=1;i<=rows;i++){
+
             for(int j=1;j<=columns;j++){
                 System.out.print(j+" ");
             }
