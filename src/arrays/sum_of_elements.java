@@ -18,7 +18,6 @@ public class sum_of_elements {
         int sum=0;
 
         for(int element:arr){
-
             sum+=element;
 
         }
