@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class reverse_array {
     static void main() {
         Scanner sc = new Scanner(System.in);
+
         System.out.println("Enter size of array");
         int n = sc.nextInt();
 
