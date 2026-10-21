@@ -8,7 +8,6 @@ public class rearrange_array_elements_by_sign {
 
         int pos = 0;
         int neg = 1;
-
         for (int i = 0; i < nums.length; i++) {
 
             if (nums[i] > 0) {
